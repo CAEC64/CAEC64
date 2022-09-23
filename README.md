@@ -1,2 +1,2 @@
 # sample text
-![a](https://forthebadge.com/generator/?plabel=i+suffer+from&slabel=mental+issues)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
